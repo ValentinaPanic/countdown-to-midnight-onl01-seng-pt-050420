@@ -6,4 +6,3 @@ def countdown(number)
     num -= 1
   end
 end
-  
